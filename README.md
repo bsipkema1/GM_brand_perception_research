@@ -21,3 +21,14 @@ The research was designed to evaluate GM’s position relative to Ford and Tesla
 * Evaluate purchase consideration for GM relative to Ford and Tesla.
 * Explore whether perceptions of GM differed across consumer segments.
 * Translate the findings into actionable marketing recommendations based on GM’s perceived strengths and competitive opportunities.
+
+
+🔬 Research Methodology
+
+The survey was created and administered using Qualtrics and collected both quantitative and qualitative responses. Questions included open-ended responses, familiarity ratings, 5-point agreement scales, purchase consideration, and demographic information.
+
+The survey received 22 responses, with one incomplete response removed from the analysis. This resulted in a final sample of 21 usable responses. Participants were recruited through social media and personal contacts, resulting in a convenience sample.
+
+The original research plan proposed a stratified random sample of 1,067 participants, which would have provided a ±3% margin of error at the 95% confidence level. Because the final sample was much smaller, the actual margin of error was approximately ±21.5%. The results were therefore treated as exploratory and were not intended to represent the entire U.S. new-vehicle market.
+
+Survey responses were analyzed using percentages, mean scores, medians, standard deviations, variance, and comparisons across brands and consumer segments. Open-ended responses were also grouped into common themes to identify the characteristics and ideas participants most often associated with each brand.
