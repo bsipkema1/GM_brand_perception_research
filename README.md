@@ -32,3 +32,14 @@ The survey received 22 responses, with one incomplete response removed from the 
 The original research plan proposed a stratified random sample of 1,067 participants, which would have provided a ±3% margin of error at the 95% confidence level. Because the final sample was much smaller, the actual margin of error was approximately ±21.5%. The results were therefore treated as exploratory and were not intended to represent the entire U.S. new-vehicle market.
 
 Survey responses were analyzed using percentages, mean scores, medians, standard deviations, variance, and comparisons across brands and consumer segments. Open-ended responses were also grouped into common themes to identify the characteristics and ideas participants most often associated with each brand.
+
+
+📈 Key Findings & Visualizations
+
+Brand Awareness
+
+GM showed strong awareness among participants, although Ford had the highest unaided awareness, with all 21 respondents mentioning the manufacturer. Chevrolet was also mentioned by nearly all participants, while Dodge, Toyota, and Tesla were among the other brands that stood out most often.
+
+When participants were asked to rate their familiarity with the three companies, General Motors received the highest mean familiarity score at 3.71, followed by Ford at 3.43 and Tesla at 1.95. Overall, participants were much more familiar with GM and Ford than with Tesla.
+
+
