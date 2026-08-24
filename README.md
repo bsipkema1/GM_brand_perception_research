@@ -44,7 +44,7 @@ Survey responses were analyzed using percentages, mean scores, medians, standard
 
 GM showed strong awareness among participants, although **Ford had the highest unaided awareness**, with all 21 respondents mentioning the manufacturer. Chevrolet was also mentioned by nearly all participants, while Dodge, Toyota, and Tesla were among the other brands that stood out most often.
 
-![Unaided Brand Awareness](images/unaided_brand_awareness.png)
+![Unaided Brand Awareness](images/Automobile_Brand_Awareness_Word_Cloud.png)
 
 When participants were asked to rate their familiarity with the three companies, **General Motors received the highest mean familiarity score at 3.71**, followed by Ford at 3.43 and Tesla at 1.95. Overall, participants were much more familiar with GM and Ford than with Tesla.
 
