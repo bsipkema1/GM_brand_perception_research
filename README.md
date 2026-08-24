@@ -104,8 +104,27 @@ Because of the small convenience sample, these recommendations should be viewed 
 
 ---
 
+## 🛠️ Tools & Skills Demonstrated
 
+### Tools
 
+- **Qualtrics** – Survey design, distribution, response collection, and data visualization
+- **Microsoft Excel** – Data organization and supporting analysis
+- **Microsoft Word** – Business report development and presentation
 
+### Skills Demonstrated
+
+- Survey design and questionnaire development
+- Quantitative and qualitative data analysis
+- Descriptive statistics and mean score comparisons
+- Open-ended response coding and thematic analysis
+- Data visualization and interpretation
+- Competitive brand analysis
+- Consumer segmentation analysis
+- Sampling methodology and margin of error
+- Translating research findings into business recommendations
+- Professional business and research communication
+
+---
 
 
