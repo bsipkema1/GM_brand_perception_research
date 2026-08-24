@@ -127,4 +127,29 @@ Because of the small convenience sample, these recommendations should be viewed 
 
 ---
 
+## 📁 Repository Structure
+```
+GM_brand_perception_research/
+│
+├── images/
+│   ├── Automobile_Brand_Awareness_Word_Cloud.png
+│   ├── gm_unaided_brand_attributes.png
+│   ├── brand_positioning_comparison.png
+│   ├── brand_attributes_comparison.png
+│   └── purchase_consideration_statistics.png
+│
+├── report/
+│   └── GM_Brand_Perception_Research_Report.pdf
+│
+├── survey/
+│   └── GM_Brand_Perception_Survey.pdf
+│
+└── README.md
+```
+- images/ – Selected visualizations used to highlight key findings from the analysis.
+- report/ – Complete research report containing the methodology, limitations, analysis, findings, and recommendations.
+- survey/ – Final Qualtrics survey instrument used to collect the research data.
+- README.md – Portfolio overview summarizing the project, methodology, analysis, and key findings.
+
+---
 
