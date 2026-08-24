@@ -42,15 +42,24 @@ Survey responses were analyzed using percentages, mean scores, medians, standard
 
 ### Brand Awareness
 
-GM showed strong awareness among participants, although Ford had the highest unaided awareness, with all 21 respondents mentioning the manufacturer. Chevrolet was also mentioned by nearly all participants, while Dodge, Toyota, and Tesla were among the other brands that stood out most often.
+GM showed strong awareness among participants, although **Ford had the highest unaided awareness**, with all 21 respondents mentioning the manufacturer. Chevrolet was also mentioned by nearly all participants, while Dodge, Toyota, and Tesla were among the other brands that stood out most often.
 
-When participants were asked to rate their familiarity with the three companies, General Motors received the highest mean familiarity score at 3.71, followed by Ford at 3.43 and Tesla at 1.95. Overall, participants were much more familiar with GM and Ford than with Tesla.
+![Unaided Brand Awareness](images/unaided_brand_awareness.png)
 
+When participants were asked to rate their familiarity with the three companies, **General Motors received the highest mean familiarity score at 3.71**, followed by Ford at 3.43 and Tesla at 1.95. Overall, participants were much more familiar with GM and Ford than with Tesla.
+
+---
 
 ### Unaided Brand Perceptions
 
-Open-ended responses were used to better understand what participants naturally associated with each brand. For General Motors, the strongest themes centered around reliability and quality, with additional associations related to American heritage, vehicle variety, performance, and style.
+Open-ended responses were used to better understand what participants naturally associated with each brand. For General Motors, the **strongest themes centered around reliability and quality**, with additional associations related to American heritage, vehicle variety, performance, and style.
+
+![GM Unaided Brand Attributes](images/gm_unaided_brand_attributes.png)
 
 The responses showed that perceptions of GM were generally positive, although they were not completely consistent. Some participants also mentioned concerns related to quality and value. Grouping the individual responses into common themes helped show which characteristics were most strongly connected with GM without relying only on prompted rating questions.
+
+---
+
+
 
 
