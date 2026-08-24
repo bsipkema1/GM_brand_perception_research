@@ -60,6 +60,16 @@ The responses showed that perceptions of GM were generally positive, although th
 
 ---
 
+### Competitive Brand Positioning
+
+The open-ended responses also showed clear differences in what made each brand stand out from its competitors. GM was most strongly associated with quality, reliability, longevity, and vehicle variety, while Ford stood out for trucks, strength, dependability, and its established reputation. Tesla had a much different position, with participants primarily connecting the brand with electric vehicles, technology, and innovation.
+
+![Competitive Brand Positioning](images/brand_positioning_comparison.png)
+
+Overall, the results showed three different positions within the sample: GM for variety and dependable quality, Ford for trucks and strength, and Tesla for electric vehicles and technology. Tesla also received more mixed reactions related to price and negative brand perceptions, while GM and Ford were viewed more consistently around traditional automotive strengths.
+
+---
+
 
 
 
