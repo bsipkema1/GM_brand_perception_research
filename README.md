@@ -80,7 +80,15 @@ Tesla stood out in different areas, receiving the highest ratings for **innovati
 
 ---
 
+### Purchase Consideration
 
+Purchase consideration was also compared across the three brands. **GM and Ford received identical mean scores of 3.86**, while Tesla received a considerably lower mean score of 2.00. Although GM and Ford had the same average, their response patterns were different.
+
+![Purchase Consideration Statistics](images/purchase_consideration_statistics.png)
+
+GM had a median of 5.00 and showed the greatest variation in responses, with a standard deviation of 1.46 and variance of 2.12. Ford had a median of 4.00 with less variation, while Tesla had both a mean and median of 2.00. These results showed that **purchase consideration for GM was less consistent among participants even though its average matched Ford**.
+
+---
 
 
 
