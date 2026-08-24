@@ -90,6 +90,22 @@ GM had a median of 5.00 and showed the greatest variation in responses, with a s
 
 ---
 
+## 💡 Business Recommendations
+
+Based on the survey findings, several opportunities were identified for General Motors:
+
+- **Continue emphasizing reputation and vehicle variety**. These were two of GM’s strongest attributes and provide areas where the company can continue building on positive consumer perceptions.
+- **Strengthen perceptions of value**. Ford received a higher value rating, suggesting an opportunity for GM to better communicate the value offered across its vehicle lineup.
+- **Improve environmental positioning**. Environmental responsibility was GM’s lowest-rated attribute and an area where Tesla held a clear advantage.
+- **Continue building perceptions of innovation and technology**. Tesla remained strongly associated with both areas, giving GM an opportunity to more clearly communicate its own technology and innovation efforts.
+- **Consider differences across consumer groups**. Perceptions of GM’s value varied by age within the sample, suggesting that the way value is communicated may need to differ across market segments.
+
+Because of the small convenience sample, these recommendations should be viewed as **exploratory findings that could guide additional research**, rather than conclusions that represent the entire automotive market.
+
+---
+
+
+
 
 
 
