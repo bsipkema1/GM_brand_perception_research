@@ -54,7 +54,7 @@ When participants were asked to rate their familiarity with the three companies,
 
 Open-ended responses were used to better understand what participants naturally associated with each brand. For General Motors, the **strongest themes centered around reliability and quality**, with additional associations related to American heritage, vehicle variety, performance, and style.
 
-![GM Unaided Brand Attributes](images/gm_unaided_brand_attributes.png)
+![GM Unaided Brand Attributes](images/unaided brand attributes cloud.png)
 
 The responses showed that perceptions of GM were generally positive, although they were not completely consistent. Some participants also mentioned concerns related to quality and value. Grouping the individual responses into common themes helped show which characteristics were most strongly connected with GM without relying only on prompted rating questions.
 
