@@ -62,13 +62,23 @@ The responses showed that perceptions of GM were generally positive, although th
 
 ### Competitive Brand Positioning
 
-The open-ended responses also showed clear differences in what made each brand stand out from its competitors. GM was most strongly associated with quality, reliability, longevity, and vehicle variety, while Ford stood out for trucks, strength, dependability, and its established reputation. Tesla had a much different position, with participants primarily connecting the brand with electric vehicles, technology, and innovation.
+The open-ended responses also showed clear differences in what made each brand stand out from its competitors. **GM was most strongly associated with quality, reliability, longevity, and vehicle variety**, while Ford stood out for trucks, strength, dependability, and its established reputation. Tesla had a much different position, with participants primarily connecting the brand with electric vehicles, technology, and innovation.
 
 ![Competitive Brand Positioning](images/brand_positioning_comparison.png)
 
-Overall, the results showed three different positions within the sample: GM for variety and dependable quality, Ford for trucks and strength, and Tesla for electric vehicles and technology. Tesla also received more mixed reactions related to price and negative brand perceptions, while GM and Ford were viewed more consistently around traditional automotive strengths.
+Overall, the results showed three different positions within the sample: **GM for variety and dependable quality, Ford for trucks and strength, and Tesla for electric vehicles and technology**. Tesla also received more mixed reactions related to price and negative brand perceptions, while GM and Ford were viewed more consistently around traditional automotive strengths.
 
 ---
+
+### Brand Attribute Comparison
+
+Participants rated GM, Ford, and Tesla across nine brand attributes using a 5-point agreement scale. The comparison showed several clear differences between the three brands. **Ford received the highest ratings for reliability, quality, value, and reputation**, while **GM received the highest rating for vehicle variety** and tied with Ford for safety.
+
+Tesla stood out in different areas, receiving the highest ratings for **innovation, advanced technology, and environmental responsibility**. For GM, the results showed strong perceptions of vehicle variety and reputation, while value and environmental responsibility were weaker areas. These differences helped identify where GM was performing well and where competitors held an advantage within the sample.
+
+---
+
+
 
 
 
