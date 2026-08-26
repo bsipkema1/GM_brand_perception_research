@@ -153,3 +153,12 @@ GM_brand_perception_research/
 
 ---
 
+## 📄 Full Report & Survey
+
+For a complete review of the research methodology, analysis, findings, and recommendations:
+
+**[View the Full Research Report](report/GM_Brand_Perception_Research_Report.pdf)**
+
+The complete Qualtrics survey instrument used to collect the research data is also available:
+
+**[View the Survey Instrument](survey/Automobile_Brand_Perception_Survey.pdf)**
